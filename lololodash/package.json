@@ -1,0 +1,23 @@
+{
+  "name": "lololodash",
+  "version": "1.0.0",
+  "description": "My solutions to nodeschool.io lololodash workshop",
+  "main": "getting-started.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdelrahman-gado/lololodash.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdelrahman-gado/lololodash/issues"
+  },
+  "homepage": "https://github.com/abdelrahman-gado/lololodash#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}

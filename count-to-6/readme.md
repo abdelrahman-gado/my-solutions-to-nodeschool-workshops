@@ -1,0 +1,1 @@
+My solutions to nodeschool.io count to 6 workshop

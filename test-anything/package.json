@@ -1,0 +1,23 @@
+{
+  "name": "test-anything",
+  "version": "1.0.0",
+  "description": "My solutions to nodeschool.io test anything workshop",
+  "main": "log-it-out.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdelrahman-gado/test-anything.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdelrahman-gado/test-anything/issues"
+  },
+  "homepage": "https://github.com/abdelrahman-gado/test-anything#readme",
+  "dependencies": {
+    "tape": "^5.5.3"
+  }
+}
